@@ -8,3 +8,5 @@ Največ časa sem zapravil pri izdelavi rezervacije za točno določen datum in 
 Vsak uporbnik se registrira z mailu ter svojim geslom in vpiše vse podatke.
 Vpise se lahko tudi z GitHub login.
 
+<img width="1028" alt="screenshot 2018-12-09 at 18 01 04" src="https://user-images.githubusercontent.com/35597362/49700271-b605a400-fbdc-11e8-9c20-b1acc9176f4f.png">
+
